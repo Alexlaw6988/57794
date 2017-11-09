@@ -389,9 +389,8 @@
             this.lblPT.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPT.Location = new System.Drawing.Point(134, 109);
             this.lblPT.Name = "lblPT";
-            this.lblPT.Size = new System.Drawing.Size(23, 13);
+            this.lblPT.Size = new System.Drawing.Size(0, 13);
             this.lblPT.TabIndex = 4;
-            this.lblPT.Text = "PT";
             this.lblPT.Visible = false;
             // 
             // lblDT
@@ -400,9 +399,8 @@
             this.lblDT.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDT.Location = new System.Drawing.Point(136, 140);
             this.lblDT.Name = "lblDT";
-            this.lblDT.Size = new System.Drawing.Size(23, 13);
+            this.lblDT.Size = new System.Drawing.Size(0, 13);
             this.lblDT.TabIndex = 6;
-            this.lblDT.Text = "PT";
             this.lblDT.Visible = false;
             // 
             // label3
@@ -422,9 +420,8 @@
             this.lblPulse.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPulse.Location = new System.Drawing.Point(136, 170);
             this.lblPulse.Name = "lblPulse";
-            this.lblPulse.Size = new System.Drawing.Size(23, 13);
+            this.lblPulse.Size = new System.Drawing.Size(0, 13);
             this.lblPulse.TabIndex = 8;
-            this.lblPulse.Text = "PT";
             this.lblPulse.Visible = false;
             // 
             // label5
